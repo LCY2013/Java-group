@@ -14,6 +14,7 @@
         <module>spring-boot-jwt</module>
         <module>spring-boot-Sharding-jdbc</module>
         <module>springboot-apollo</module>
+        <module>springboot-mockito</module>
     </modules>
 
     <properties>
