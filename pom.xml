@@ -15,6 +15,7 @@
         <module>spring-boot-Sharding-jdbc</module>
         <module>springboot-apollo</module>
         <module>springboot-mockito</module>
+        <module>springboot-saas</module>
     </modules>
 
     <properties>
