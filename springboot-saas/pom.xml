@@ -104,6 +104,11 @@
             <version>6.0.18.Final</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.apache.httpcomponents</groupId>
+            <artifactId>httpclient</artifactId>
+        </dependency>
+
     </dependencies>
 
     <build>
